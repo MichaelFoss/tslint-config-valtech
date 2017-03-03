@@ -1,3 +1,6 @@
 # Hidden files
 .DS_Store
 .Thumbs.db
+
+# Node Modules
+node_modules
