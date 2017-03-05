@@ -1,0 +1,26 @@
+{
+  "name": "tslint-config-valtech",
+  "version": "0.1.0",
+  "description": "Valtech TSLint configuration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelFoss/tslint-config-valtech.git"
+  },
+  "keywords": [
+    "tslint"
+  ],
+  "author": "Michael Foss <michael@mikefoss.com> (https://github.com/MichaelFoss/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichaelFoss/tslint-config-valtech/issues"
+  },
+  "homepage": "https://github.com/MichaelFoss/tslint-config-valtech#readme",
+  "devDependencies": {
+    "tslint": "^4.5.1",
+    "typescript": "^2.2.1"
+  }
+}
